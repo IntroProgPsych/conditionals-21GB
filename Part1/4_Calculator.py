@@ -29,4 +29,4 @@
 # 4 - 6 = -2
 
 # Write your code here:
-
+number = int(input())
